@@ -1,5 +1,5 @@
 # Multi-object-recogniser-with-CNN
-Download the “vehicles” dataset from here and adapt your CNN from the lab session to 
+Download the “vehicles” dataset and adapt your CNN and
 recognise the 4 object types in the dataset. Generate a graphical plot of  your training and 
 validation accuracy during training. Then answer the following questions: 
 • How long does the network need to train until reaching an accuracy of  95% (or 
